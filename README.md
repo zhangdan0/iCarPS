@@ -4,7 +4,7 @@ iCarPS provides a machine-learning method for carbonylation site prediction. It 
 # Installation
 Download iCarPS by 
 
-`https://github.com/zhangdan0/machine-learning.git`
+`https://github.com/zhangdan0/iCarPS.git`
 
 # Requirements
 * Python>=3.0
