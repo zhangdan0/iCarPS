@@ -24,7 +24,7 @@ Besides, you must ensure that your local computer has a Java environment before 
 
 # Useage
 * For users who want to perform carbonylation site prediction by our provided model :
-* cd to the ./iCarPS_offline folder which contains iCarPS_offline.py and run as:
+ cd to the ./iCarPS_offline folder which contains iCarPS_offline.py and run as:
 
 `python iCarPS_offline.py [PredictType] [query sequences file]`
 
